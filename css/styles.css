@@ -180,12 +180,14 @@ margin-bottom: 0px;
 }
 .svg-contact {
   margin-right: 10px;
+  
 }
   
 .icon-contact:hover,
 .icon-contact:focus
 {
   fill: var(--accent-color);
+  align-items: center;
 }
   
 
